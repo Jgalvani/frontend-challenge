@@ -1,0 +1,33 @@
+
+::ng-deep body
+{
+  background-color: grey;
+}
+
+#volumesChart
+{
+  height: 50%;
+  width: 80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 5%;
+}
+
+.btn
+{
+  width: 15%;
+  display: inline-block;
+  background-color: rgb(78, 166, 182);
+  margin-left: 2%;
+  text-align: center;
+}
+
+.chartButton
+{
+  margin-top: 2%;
+  width: 80%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+}
+

@@ -1,0 +1,7 @@
+<div class="middlenav">
+  <div class="volumeSelect">
+    <button class="btn" *ngFor="let volumes of volumeList">
+      <a routerLink="/graph/{{ volumes }}">{{ volumes }}</a>
+    </button>
+  </div>
+</div>
